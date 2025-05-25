@@ -351,7 +351,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<../Screenshot 2025-05-25 154412.png>)
+![Screenshot 2025-05-25 154412](https://github.com/user-attachments/assets/42325394-364c-4ec3-a41e-9a472bf3f71f)
 
 
 ## RESULT:
